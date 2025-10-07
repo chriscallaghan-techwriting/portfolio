@@ -1,0 +1,12 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Chris Callaghan Tech Writing Portfolio</title>
+</head>
+<body>
+<h1>Chris Callaghan Tech Writing Portfolio</h1>
+<p>See below work samples from my Technical Writing career.</p>
+</body>
+</html>
